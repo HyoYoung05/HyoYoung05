@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Bachelor of Science in Information Technology student with a growing interest in software development and technology. I am currently exploring different areas of programming through hands-on practice, learning by building projects, experimenting with code, and improving my skills along the way.<br>Right now, I am focused on “vibe coding,” where I use creativity, problem-solving, and available tools to turn ideas into working applications while continuously learning from the process.
+I am a Bachelor of Science in Information Technology student with a growing interest in software development and technology. I am currently exploring different areas of programming through learning by building projects, experimenting with code, and improving my skills along the way.<br>Right now, I am focused on “vibe coding,” where I use creativity, problem-solving, and available tools to turn ideas into working applications while continuously learning from the process.
 
 
 # 💻 Tech Stack:
